@@ -79,7 +79,7 @@ A more negative CLIP similarity difference indicates worse prompt-image alignmen
 ```bash
 SEMAD/
 ├── diffusers/
-├── Rickrolling_BlackWhite/
+├── Rickrolling_BlackWhite.ipynb
 ├── environment.yml
 ├── install.sh
 └── README.md
