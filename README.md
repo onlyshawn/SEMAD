@@ -69,7 +69,7 @@ We generate paired images from clean and backdoored models using the same prompt
 \Delta s(x) = s(x, I_{\text{bd}}) - s(x, I_{\text{clean}})
 ```
 
-A more negative `\Delta s` indicates worse prompt-image alignment under the backdoored model.
+A more negative CLIP similarity difference indicates worse prompt-image alignment under the backdoored model.
 
 ---
 
